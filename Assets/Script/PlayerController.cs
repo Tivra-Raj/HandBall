@@ -86,8 +86,7 @@ public class PlayerController : MonoBehaviour
 
             if (collision.gameObject.CompareTag("Goal"))
             {
-                photonView.RPC(nameof(UpdateBallOnPlayer), RpcTarget.All, false);
-                spawner.ResetPositionOnMasterClient();
+                photonView.RPC(nameof(UpdateBallOnPlayer), RpcTarget.All, false);    
 
                 BallController ballController = BallController.Instance;
                 ballController.GetBallPhotonView().RPC(nameof(ballController.UpdateBallStatus), RpcTarget.All, true);
@@ -95,11 +94,13 @@ public class PlayerController : MonoBehaviour
                 ScoreController scoreController = ScoreController.Instance;
                 if(LocalTeamData.teamID == TeamName.RedTeam && collision.gameObject.GetComponent<GoalController>().GoalId == GoalPost.BlueTeamGoalPost)
                 {
+                    spawner.ResetPositionOnMasterClient();
                     spawner.ActivateGoalText(color.Red);
                     scoreController.GetScorePhotonView().RPC(nameof(scoreController.IncreaseRedTeamScore), RpcTarget.All, 1);
                 }
                 else if (LocalTeamData.teamID == TeamName.BlueTeam && collision.gameObject.GetComponent<GoalController>().GoalId == GoalPost.RedTeamGoalPost)
                 {
+                    spawner.ResetPositionOnMasterClient();
                     spawner.ActivateGoalText(color.Blue);
                     scoreController.GetScorePhotonView().RPC(nameof(scoreController.IncreaseBlueTeamScore), RpcTarget.All, 1);
                 }
