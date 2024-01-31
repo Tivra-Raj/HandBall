@@ -2581,7 +2581,7 @@ BoxCollider2D:
   m_CallbackLayers:
     serializedVersion: 2
     m_Bits: 4294967295
-  m_IsTrigger: 0
+  m_IsTrigger: 1
   m_UsedByEffector: 0
   m_UsedByComposite: 0
   m_Offset: {x: 0.15330374, y: -0.8033175}
@@ -2656,7 +2656,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   CountDownText: {fileID: 1501571503}
-  MaxTime: 30
+  MaxTime: 120
   CurrentTime: 0
   GameOverUI: {fileID: 441036}
   teamWontext: {fileID: 239724031}
@@ -2841,7 +2841,7 @@ Canvas:
   m_GameObject: {fileID: 1454164426}
   m_Enabled: 1
   serializedVersion: 3
-  m_RenderMode: 1
+  m_RenderMode: 0
   m_Camera: {fileID: 0}
   m_PlaneDistance: 100
   m_PixelPerfect: 0
@@ -3228,7 +3228,7 @@ BoxCollider2D:
   m_CallbackLayers:
     serializedVersion: 2
     m_Bits: 4294967295
-  m_IsTrigger: 0
+  m_IsTrigger: 1
   m_UsedByEffector: 0
   m_UsedByComposite: 0
   m_Offset: {x: 0.15330374, y: -0.8033175}

@@ -17,6 +17,7 @@ public class PlayerController : MonoBehaviour
     private bool facingUp;
 
     [SerializeField] private TextMeshProUGUI playerName;
+    [SerializeField] private GameObject playerIndicator;
 
     private void Awake()
     {
@@ -28,6 +29,9 @@ public class PlayerController : MonoBehaviour
     private void Start()
     {
         playerName.text = photonView.IsMine?PhotonNetwork.LocalPlayer.NickName : photonView.Owner.NickName;
+
+        playerIndicator.SetActive(photonView.IsMine);
+
     }
 
     void Update()
