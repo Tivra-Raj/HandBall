@@ -1,0 +1,549 @@
+fileFormatVersion: 2
+guid: d12151323abd3664a92853eecab88948
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Windows Store Apps
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: 361063_ultimo-indie-games_pixel-soccer-players-removebg-preview_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 281
+        width: 73
+        height: 133
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 12b828941cd470042996084d53a2a4de
+      internalID: 1535739299
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 361063_ultimo-indie-games_pixel-soccer-players-removebg-preview_1
+      rect:
+        serializedVersion: 2
+        x: 73
+        y: 281
+        width: 73
+        height: 133
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fdf0baaba4d8289438bc210bbbd3220c
+      internalID: 735935925
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 361063_ultimo-indie-games_pixel-soccer-players-removebg-preview_2
+      rect:
+        serializedVersion: 2
+        x: 146
+        y: 281
+        width: 73
+        height: 133
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b08abb4d99a69804b9320baa41ff4aee
+      internalID: -1117516587
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 361063_ultimo-indie-games_pixel-soccer-players-removebg-preview_3
+      rect:
+        serializedVersion: 2
+        x: 219
+        y: 281
+        width: 73
+        height: 133
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 89aceb75414ceed4f816aad3ad3b63cd
+      internalID: 492095181
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 361063_ultimo-indie-games_pixel-soccer-players-removebg-preview_4
+      rect:
+        serializedVersion: 2
+        x: 292
+        y: 281
+        width: 73
+        height: 133
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c41136eef0c2b7749bd3532226e994b3
+      internalID: 1390948948
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 361063_ultimo-indie-games_pixel-soccer-players-removebg-preview_5
+      rect:
+        serializedVersion: 2
+        x: 365
+        y: 281
+        width: 73
+        height: 133
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2caa937133fd38d429fd83a554a8b151
+      internalID: -821595170
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 361063_ultimo-indie-games_pixel-soccer-players-removebg-preview_6
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 148
+        width: 73
+        height: 133
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 242d0bf144d972b49bd32ad498521b97
+      internalID: -842176966
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 361063_ultimo-indie-games_pixel-soccer-players-removebg-preview_7
+      rect:
+        serializedVersion: 2
+        x: 73
+        y: 148
+        width: 73
+        height: 133
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ecce536a4b2c7ac428d9670819d9c86f
+      internalID: -2033681943
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 361063_ultimo-indie-games_pixel-soccer-players-removebg-preview_8
+      rect:
+        serializedVersion: 2
+        x: 146
+        y: 148
+        width: 73
+        height: 133
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 37c13a2b85eed4a40b58e86f5d53f6ca
+      internalID: -1663211774
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 361063_ultimo-indie-games_pixel-soccer-players-removebg-preview_9
+      rect:
+        serializedVersion: 2
+        x: 219
+        y: 148
+        width: 73
+        height: 133
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8f4e8b311e7c50546ac653bb15f23b27
+      internalID: -1721883146
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 361063_ultimo-indie-games_pixel-soccer-players-removebg-preview_10
+      rect:
+        serializedVersion: 2
+        x: 292
+        y: 148
+        width: 73
+        height: 133
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5769676d1eb8880418f2e26cf96cebcd
+      internalID: -1265427838
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 361063_ultimo-indie-games_pixel-soccer-players-removebg-preview_11
+      rect:
+        serializedVersion: 2
+        x: 365
+        y: 148
+        width: 73
+        height: 133
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 78816564863782047b6582df41c437ef
+      internalID: -812110028
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 361063_ultimo-indie-games_pixel-soccer-players-removebg-preview_12
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 15
+        width: 73
+        height: 133
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6f425007915c4524baf461c0aa423207
+      internalID: -1351962502
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 361063_ultimo-indie-games_pixel-soccer-players-removebg-preview_13
+      rect:
+        serializedVersion: 2
+        x: 73
+        y: 15
+        width: 73
+        height: 133
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 425001c82984a364d83980cd4bb250c3
+      internalID: -1381094381
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 361063_ultimo-indie-games_pixel-soccer-players-removebg-preview_14
+      rect:
+        serializedVersion: 2
+        x: 146
+        y: 15
+        width: 73
+        height: 133
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a54011b9f241ff849998f54edcae72cd
+      internalID: -901016243
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 361063_ultimo-indie-games_pixel-soccer-players-removebg-preview_15
+      rect:
+        serializedVersion: 2
+        x: 219
+        y: 15
+        width: 73
+        height: 133
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c90d07bf4bf04dc4d8cd1988c968ad54
+      internalID: 1753084781
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 361063_ultimo-indie-games_pixel-soccer-players-removebg-preview_16
+      rect:
+        serializedVersion: 2
+        x: 292
+        y: 15
+        width: 73
+        height: 133
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 680e1ca5f19f99c4c9bde175582da792
+      internalID: -248299640
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 361063_ultimo-indie-games_pixel-soccer-players-removebg-preview_17
+      rect:
+        serializedVersion: 2
+        x: 365
+        y: 15
+        width: 73
+        height: 133
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5c97194945da8334793a5519849d4d93
+      internalID: -986444730
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      361063_ultimo-indie-games_pixel-soccer-players-removebg-preview_0: 1535739299
+      361063_ultimo-indie-games_pixel-soccer-players-removebg-preview_1: 735935925
+      361063_ultimo-indie-games_pixel-soccer-players-removebg-preview_10: -1265427838
+      361063_ultimo-indie-games_pixel-soccer-players-removebg-preview_11: -812110028
+      361063_ultimo-indie-games_pixel-soccer-players-removebg-preview_12: -1351962502
+      361063_ultimo-indie-games_pixel-soccer-players-removebg-preview_13: -1381094381
+      361063_ultimo-indie-games_pixel-soccer-players-removebg-preview_14: -901016243
+      361063_ultimo-indie-games_pixel-soccer-players-removebg-preview_15: 1753084781
+      361063_ultimo-indie-games_pixel-soccer-players-removebg-preview_16: -248299640
+      361063_ultimo-indie-games_pixel-soccer-players-removebg-preview_17: -986444730
+      361063_ultimo-indie-games_pixel-soccer-players-removebg-preview_2: -1117516587
+      361063_ultimo-indie-games_pixel-soccer-players-removebg-preview_3: 492095181
+      361063_ultimo-indie-games_pixel-soccer-players-removebg-preview_4: 1390948948
+      361063_ultimo-indie-games_pixel-soccer-players-removebg-preview_5: -821595170
+      361063_ultimo-indie-games_pixel-soccer-players-removebg-preview_6: -842176966
+      361063_ultimo-indie-games_pixel-soccer-players-removebg-preview_7: -2033681943
+      361063_ultimo-indie-games_pixel-soccer-players-removebg-preview_8: -1663211774
+      361063_ultimo-indie-games_pixel-soccer-players-removebg-preview_9: -1721883146
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
