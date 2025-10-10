@@ -40,7 +40,7 @@ public class PlayerController : MonoBehaviour
         {
             if (GameStatus.gameStatus == GameStatusEnum.GameOver || GameStatus.gameStatus == GameStatusEnum.GamePaused) 
             {
-                rb.velocity = Vector3.zero;
+                rb.linearVelocity = Vector3.zero;
                 return; 
             }
 
@@ -56,7 +56,7 @@ public class PlayerController : MonoBehaviour
         Vector2 movement = new Vector2(horizontalInput, verticalInput);
         movement.Normalize();
 
-        rb.velocity = new Vector2(movement.x * moveSpeed, movement.y * moveSpeed);
+        rb.linearVelocity = new Vector2(movement.x * moveSpeed, movement.y * moveSpeed);
 
         Vector3 scale = spriteBody.transform.localScale;
         if (facingRight && horizontalInput < 0)
